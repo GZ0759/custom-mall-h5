@@ -1,4 +1,4 @@
-# custom-mail-h5
+# custom-mall-h5
 
 ## Project setup
 ```

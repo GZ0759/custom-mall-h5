@@ -1,0 +1,348 @@
+{
+    "cubes": {
+        "007105f7e52a46e10b805cf2ee8352b6": {
+            "mode": 2,
+            "layout": "2-1",
+            "height": 375,
+            "spacing": false,
+            "images": [{
+                    "type": "contact",
+                    "tips": "",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/600600.png?imageView2/1/w/600/h/600/q/70#",
+                    "width": 375,
+                    "height": 375
+                },
+                {
+                    "type": "contact",
+                    "tips": "如无回复，请输入1",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/600600.png?imageView2/1/w/600/h/600/q/70#",
+                    "width": 375,
+                    "height": 375
+                }
+            ],
+            "title": "客服对话框"
+        },
+        "9553bf1f380033b439edc173103ec28b": {
+            "mode": 2,
+            "layout": "2-2",
+            "height": 250,
+            "spacing": false,
+            "images": [{
+                    "type": "contact",
+                    "tips": "接入客服",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/800400.png?imageView2/1/w/800/h/400/q/70#",
+                    "width": 500,
+                    "height": 250
+                },
+                {
+                    "type": "web_view",
+                    "src": "https://97866.com/?12",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/400400.png?imageView2/1/w/400/h/400/q/70#",
+                    "width": 250,
+                    "height": 250
+                }
+            ],
+            "title": "热销商品"
+        },
+        "748fd515e4d0e799d9658b3eea0e9122": {
+            "mode": 2,
+            "layout": "2-3",
+            "height": 156,
+            "spacing": false,
+            "images": [{
+                    "type": "none",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/400250.png?imageView2/1/w/400/h/250/q/70#",
+                    "width": 250,
+                    "height": 156
+                },
+                {
+                    "type": "",
+                    "path": "/pages/grouponList/grouponList",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/800250.png?imageView2/1/w/800/h/250/q/70#",
+                    "width": 500,
+                    "height": 156
+                }
+            ],
+            "title": ""
+        },
+        "ea29aac533565480daefadd3b8b7901e": {
+            "mode": 3,
+            "layout": "3-3",
+            "height": 500,
+            "spacing": false,
+            "images": [{
+                    "type": "none",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/600400.png?imageView2/1/w/600/h/400/q/70#",
+                    "width": 375,
+                    "height": 250
+                },
+                {
+                    "type": "",
+                    "path": "/pages/productList/productList?categoryId=160&categoryParent=14",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/600400.png?imageView2/1/w/600/h/400/q/70#",
+                    "width": 375,
+                    "height": 250
+                },
+                {
+                    "type": "none",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/600800.png?imageView2/1/w/600/h/800/q/70#",
+                    "width": 375,
+                    "height": 500
+                }
+            ],
+            "title": ""
+        },
+        "47c573214829f7d9628c40c50509a20a": {
+            "mode": 1,
+            "layout": "1-1",
+            "height": 280,
+            "spacing": false,
+            "images": [{
+                "type": "",
+                "path": "/pages/productDetail/productDetail?id=1142",
+                "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/1200448.png?imageView2/1/w/1200/h/448/q/70#",
+                "width": 750,
+                "height": 280
+            }],
+            "title": ""
+        },
+        "14fa36c1c2985ce0a12f1e282df51ac5": {
+            "mode": 4,
+            "layout": "4-2",
+            "height": 500,
+            "spacing": false,
+            "images": [{
+                    "type": "none",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/600400.png?imageView2/1/w/600/h/400/q/70#",
+                    "width": 375,
+                    "height": 250
+                },
+                {
+                    "type": "none",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/600400.png?imageView2/1/w/600/h/400/q/70#",
+                    "width": 375,
+                    "height": 250
+                },
+                {
+                    "type": "",
+                    "path": "/pages/grouponList/grouponList",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/600400.png?imageView2/1/w/600/h/400/q/70#",
+                    "width": 375,
+                    "height": 250
+                },
+                {
+                    "type": "none",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/600400.png?imageView2/1/w/600/h/400/q/70#",
+                    "width": 375,
+                    "height": 250
+                }
+            ],
+            "title": "热销商品"
+        },
+        "022b0e0e54e0e828a8e27c7d35e12b43": {
+            "mode": 4,
+            "layout": "4-1",
+            "height": 187,
+            "spacing": false,
+            "images": [{
+                    "type": "none",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/300300-1.png?imageView2/1/w/300/h/300/q/70#",
+                    "width": 187,
+                    "height": 187
+                },
+                {
+                    "type": "none",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/300300-1.png?imageView2/1/w/300/h/300/q/70#",
+                    "width": 187,
+                    "height": 187
+                },
+                {
+                    "type": "none",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/300300-1.png?imageView2/1/w/300/h/300/q/70#",
+                    "width": 187,
+                    "height": 187
+                },
+                {
+                    "type": "none",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/300300-1.png?imageView2/1/w/300/h/300/q/70#",
+                    "width": 187,
+                    "height": 187
+                }
+            ],
+            "title": "4-1"
+        }
+    },
+    "cubesWithSpace": {
+        "007105f7e52a46e10b805cf2ee8352b6": {
+            "mode": 2,
+            "layout": "2-1",
+            "height": 375,
+            "spacing": true,
+            "images": [{
+                    "type": "contact",
+                    "tips": "",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/600600.png?imageView2/1/w/600/h/600/q/70#",
+                    "width": 375,
+                    "height": 375
+                },
+                {
+                    "type": "contact",
+                    "tips": "如无回复，请输入1",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/600600.png?imageView2/1/w/600/h/600/q/70#",
+                    "width": 375,
+                    "height": 375
+                }
+            ],
+            "title": "客服对话框"
+        },
+        "9553bf1f380033b439edc173103ec28b": {
+            "mode": 2,
+            "layout": "2-2",
+            "height": 250,
+            "spacing": true,
+            "images": [{
+                    "type": "contact",
+                    "tips": "接入客服",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/800400.png?imageView2/1/w/800/h/400/q/70#",
+                    "width": 500,
+                    "height": 250
+                },
+                {
+                    "type": "web_view",
+                    "src": "https://97866.com/?12",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/400400.png?imageView2/1/w/400/h/400/q/70#",
+                    "width": 250,
+                    "height": 250
+                }
+            ],
+            "title": "热销商品"
+        },
+        "748fd515e4d0e799d9658b3eea0e9122": {
+            "mode": 2,
+            "layout": "2-3",
+            "height": 156,
+            "spacing": true,
+            "images": [{
+                    "type": "none",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/400250.png?imageView2/1/w/400/h/250/q/70#",
+                    "width": 250,
+                    "height": 156
+                },
+                {
+                    "type": "",
+                    "path": "/pages/grouponList/grouponList",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/800250.png?imageView2/1/w/800/h/250/q/70#",
+                    "width": 500,
+                    "height": 156
+                }
+            ],
+            "title": ""
+        },
+        "ea29aac533565480daefadd3b8b7901e": {
+            "mode": 3,
+            "layout": "3-3",
+            "height": 500,
+            "spacing": true,
+            "images": [{
+                    "type": "none",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/600400.png?imageView2/1/w/600/h/400/q/70#",
+                    "width": 375,
+                    "height": 250
+                },
+                {
+                    "type": "",
+                    "path": "/pages/productList/productList?categoryId=160&categoryParent=14",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/600400.png?imageView2/1/w/600/h/400/q/70#",
+                    "width": 375,
+                    "height": 250
+                },
+                {
+                    "type": "none",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/600800.png?imageView2/1/w/600/h/800/q/70#",
+                    "width": 375,
+                    "height": 500
+                }
+            ],
+            "title": ""
+        },
+        "47c573214829f7d9628c40c50509a20a": {
+            "mode": 1,
+            "layout": "1-1",
+            "height": 280,
+            "spacing": true,
+            "images": [{
+                "type": "",
+                "path": "/pages/productDetail/productDetail?id=1142",
+                "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/1200448.png?imageView2/1/w/1200/h/448/q/70#",
+                "width": 750,
+                "height": 280
+            }],
+            "title": ""
+        },
+        "14fa36c1c2985ce0a12f1e282df51ac5": {
+            "mode": 4,
+            "layout": "4-2",
+            "height": 500,
+            "spacing": true,
+            "images": [{
+                    "type": "none",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/600400.png?imageView2/1/w/600/h/400/q/70#",
+                    "width": 375,
+                    "height": 250
+                },
+                {
+                    "type": "none",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/600400.png?imageView2/1/w/600/h/400/q/70#",
+                    "width": 375,
+                    "height": 250
+                },
+                {
+                    "type": "",
+                    "path": "/pages/grouponList/grouponList",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/600400.png?imageView2/1/w/600/h/400/q/70#",
+                    "width": 375,
+                    "height": 250
+                },
+                {
+                    "type": "none",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/600400.png?imageView2/1/w/600/h/400/q/70#",
+                    "width": 375,
+                    "height": 250
+                }
+            ],
+            "title": "热销商品"
+        },
+        "022b0e0e54e0e828a8e27c7d35e12b43": {
+            "mode": 4,
+            "layout": "4-1",
+            "height": 187,
+            "spacing": true,
+            "images": [{
+                    "type": "none",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/300300-1.png?imageView2/1/w/300/h/300/q/70#",
+                    "width": 187,
+                    "height": 187
+                },
+                {
+                    "type": "none",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/300300-1.png?imageView2/1/w/300/h/300/q/70#",
+                    "width": 187,
+                    "height": 187
+                },
+                {
+                    "type": "none",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/300300-1.png?imageView2/1/w/300/h/300/q/70#",
+                    "width": 187,
+                    "height": 187
+                },
+                {
+                    "type": "none",
+                    "image": "https://hei.dev.97866.com/wp-content/uploads/sites/2/2019/08/300300-1.png?imageView2/1/w/300/h/300/q/70#",
+                    "width": 187,
+                    "height": 187
+                }
+            ],
+            "title": "4-1"
+        }
+    }
+}
